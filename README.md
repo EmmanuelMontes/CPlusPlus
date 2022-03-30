@@ -1,2 +1,2 @@
 # CPlusPlus
-General practive of C++ Language
+General practice of C++ Language
